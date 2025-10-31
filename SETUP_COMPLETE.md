@@ -369,7 +369,7 @@ cd C:\Projects\PiriReis\website && php -S localhost:8000
 
 ```text
 Repository: C:\Projects\PiriReis\
-Remote: [Add your GitHub/GitLab remote URL]
+Remote: https://github.com/sobhy0101/PiriReis
 Branch: main
 ```
 
