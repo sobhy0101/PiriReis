@@ -1,0 +1,90 @@
+Developer pricing request
+
+Hi,
+
+For a new Financial firm and website, please provide a detailed pricing estimate based on the following specifications:
+
+Pages:
+- Home (hero section (video-5-seconds with image fallback), headline, subheadline), brief intro, 2 sections with a photo and short text, call-to-action)
+- About (hero section, company history, mission & values, call-to-action)
+- Services (Discover our range of services)
+- Team (An overview of our 8 team members with popup modals for detailed bios)
+- Insights (Blog/news articles and insights)
+- PreStruct (Financial structure analysis tool with user input forms and dynamic results display)
+- Book a meeting (Scheduling integration with Google Workspace calendar)
+- Contact (Contact form with validation and CAPTCHA)
+
+Hosting:
+- Provider: GoDaddy
+- Plan: Web Hosting Economy
+
+Requirements:
+- Bilingual: English and Arabic (RTL for Arabic)
+- SEO optimization for all pages
+- Responsive design for mobile and large screens
+- SVG minimal icons, WebP images, WebM video formats
+- Performance optimization
+- Integration with Google Workspace (scheduling, calendar, signature)
+- Contact form with validation and CAPTCHA
+- Popup modals for team member bios
+- Blog functionality for insights page
+- Financial structure analysis tool with dynamic results display
+- Security: SSL, regular backups, disaster recovery, GDPR compliance, privacy policy/terms pages
+- CMS for easy content updates, blog management, and training
+- Analytics setup (Google Analytics)
+- Social media and newsletter signup integration
+- Accessibility compliance (WCAG 2.1 AA)
+- Multi-browser compatibility (Chrome, Firefox, Safari, Edge on mobile/desktop)
+- Domain and hosting setup/configuration (two .com.eg, one .com)
+- Scheduling tool setup and training
+- Ongoing maintenance and support (optional: yearly/monthly)
+- Secured client portal with social login (Google, phone, email, Apple ID, WhatsApp)
+- Client dashboard for financial reports, scheduling, info updates, and analysis
+- Multi-language support (English, Arabic, RTL for Arabic)
+- Post-launch support and bug fixes (3 months)
+
+---
+
+Arabic Version:
+السلام عليكم،
+
+طلب تسعير مطور
+من أجل شركة مالية جديدة وموقع إلكتروني، يرجى تقديم تقدير تسعير مفصل بناءً على المواصفات التالية:
+الصفحات:
+- الصفحة الرئيسية (قسم البطل (فيديو 5 ثوانٍ مع صورة احتياطية)، العنوان، العنوان الفرعي)، مقدمة موجزة، قسمين مع صورة ونص قصير، دعوة للعمل)
+- من نحن (قسم البطل، تاريخ الشركة، المهمة والقيم، دعوة للعمل)
+- الخدمات (اكتشف مجموعة خدماتنا)
+- الفريق (نظرة عامة على 8 أعضاء في الفريق مع نوافذ منبثقة للسير الذاتية التفصيلية)
+- الرؤى (مقالات وأخبار ورؤى المدونة)
+- PreStruct (أداة تحليل الهيكل المالي مع نماذج إدخال المستخدم وعرض النتائج الديناميكية)
+- حجز اجتماع (تكامل الجدولة مع تقويم Google Workspace)
+- الاتصال (نموذج الاتصال مع التحقق و CAPTCHA)
+
+الاستضافة:
+- المزود: GoDaddy
+- الخطة: استضافة الويب الاقتصادية
+
+المتطلبات:
+- ثنائي اللغة: الإنجليزية والعربية (RTL للعربية)
+- تحسين محركات البحث لجميع الصفحات
+- تصميم متجاوب للشاشات المحمولة والكبيرة
+- أيقونات SVG بسيطة، صور WebP، تنسيقات فيديو WebM
+- تحسين الأداء
+- التكامل مع Google Workspace (الجدولة، التقويم، التوقيع)
+- نموذج الاتصال مع التحقق و CAPTCHA
+- نوافذ منبثقة للسير الذاتية لأعضاء الفريق
+- وظيفة المدونة لصفحة الرؤى
+- أداة تحليل الهيكل المالي مع عرض النتائج الديناميكية
+- الأمان: SSL، النسخ الاحتياطي المنتظم، استعادة الكوارث، الامتثال لـ GDPR، صفحات سياسة الخصوصية / الشروط
+- نظام إدارة المحتوى لتحديثات المحتوى السهلة، إدارة المدونة، والتدريب
+- إعداد التحليلات (Google Analytics)
+- تكامل وسائل التواصل الاجتماعي وتسجيل الاشتراك في النشرة الإخبارية
+- الامتثال للوصول (WCAG 2.1 AA)
+- التوافق مع المتصفحات المتعددة (Chrome، Firefox، Safari، Edge على الهاتف المحمول / سطح المكتب)
+- إعداد / تكوين المجال والاستضافة (اثنان .com.eg، واحد .com)
+- إعداد أداة الجدولة والتدريب
+- الصيانة والدعم المستمر (اختياري: سنوي / شهري)
+- بوابة عميل مؤمنة مع تسجيل دخول اجتماعي (Google، الهاتف، البريد الإلكتروني، Apple ID، WhatsApp)
+- لوحة معلومات العميل للتقارير المالية، الجدولة، تحديثات المعلومات، والتحليل
+- دعم متعدد اللغات (الإنجليزية، العربية، RTL للعربية)
+- دعم ما بعد الإطلاق وإصلاح الأخطاء (3 أشهر)
