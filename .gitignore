@@ -1,48 +1,88 @@
-# Wordpress - ignore core, configuration, examples, uploads and logs.
-# https://github.com/github/gitignore/blob/main/WordPress.gitignore
+# WordPress Core - DO NOT COMMIT
+# Only track your custom themes and plugins
+website/wp-admin/
+website/wp-includes/
+website/*.php
+website/wp-content/index.php
+website/wp-content/plugins/index.php
+website/wp-content/themes/index.php
+website/license.txt
+website/readme.html
+website/xmlrpc.php
 
-# Core
-#
-# Note: if you want to stage/commit WP core files
-# you can delete this whole section/until Configuration.
-/wp-admin/
-/wp-content/index.php
-/wp-content/languages
-/wp-content/plugins/index.php
-/wp-content/themes/index.php
-/wp-includes/
-/index.php
-/license.txt
-/readme.html
-/wp-*.php
-/xmlrpc.php
+# WordPress Configuration
+website/wp-config.php
+website/.htaccess
 
-# Configuration
-wp-config.php
+# WordPress Content - Track only custom work
+# Exclude all plugins except your custom ones
+website/wp-content/plugins/*
+!website/wp-content/plugins/.gitkeep
+# Add your custom plugins here like:
+# !website/wp-content/plugins/my-custom-plugin/
 
-# Example themes
-/wp-content/themes/twenty*/
+# Exclude all themes except your custom ones
+website/wp-content/themes/*
+!website/wp-content/themes/.gitkeep
+# Add your custom theme here like:
+# !website/wp-content/themes/my-custom-theme/
 
-# Example plugin
-/wp-content/plugins/hello.php
-
-# Uploads
-/wp-content/uploads/
+# Uploads and Cache
+website/wp-content/uploads/
+website/wp-content/upgrade/
+website/wp-content/cache/
+website/wp-content/backup-db/
+website/wp-content/backups/
+website/wp-content/blogs.dir/
+website/wp-content/upgrade/
 
 # Log files
 *.log
+website/wp-content/debug.log
 
-# htaccess
-/.htaccess
+# Database files
+*.sql
+*.sql.gz
+create-wordpress-db.sql
+wordpress-db-credentials.txt
 
-# All plugins
-#
-# Note: If you wish to whitelist plugins,
-# uncomment the next line
-#/wp-content/plugins
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
 
-# All themes
-#
-# Note: If you wish to whitelist themes,
-# uncomment the next line
-#/wp-content/themes
+# IDE and Editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.swp
+*.swo
+*~
+
+# Environment and sensitive files
+.env
+.env.local
+.env.production
+.env.staging
+
+# Node modules (if you use npm/webpack)
+node_modules/
+/vendor/
+
+# Composer
+composer.phar
+composer.lock
+
+# Build files
+*.map
+dist/
+build/
+
+# Temporary files
+tmp/
+temp/
